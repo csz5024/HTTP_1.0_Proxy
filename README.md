@@ -1,4 +1,4 @@
-# shlab
+# Proxy Server
 Final Project for CMPSC311: Intro to Systems Programming
 
 ## Code written by me:
